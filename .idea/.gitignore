@@ -6,3 +6,27 @@
 # Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
+
+target/
+build/
+out/
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+
+.idea/
+*.iml
+*.iws
+
+.DS_Store
+Thumbs.db
+
+*.log
+
+.gradle/
+mvnw
+mvnw.cmd
+gradlew
+gradlew.bat
